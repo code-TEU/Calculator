@@ -1,4 +1,4 @@
-Android Stuio Project
+Android Studio Project
 * Calculator App (work in progress)
 - Java code
 - used Android Studio
